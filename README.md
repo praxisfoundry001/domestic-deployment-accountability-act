@@ -34,6 +34,6 @@ This artifact belongs with Praxis Foundry civic/public-law tools and bridge arti
 
 ## Citation / DOI
 
-Zenodo DOI: DOI PENDING
+Zenodo DOI: https://doi.org/10.5281/zenodo.19895801
 
 PDF available via DOI link once published.
