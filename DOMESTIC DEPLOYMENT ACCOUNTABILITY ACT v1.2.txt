@@ -1,0 +1,263 @@
+﻿DOMESTIC DEPLOYMENT ACCOUNTABILITY ACT: 
+DOMESTIC DEPLOYMENT AS CONSTITUTIONAL BOUNDARY — OPEN-SOURCE MODEL LEGISLATION
+Section 1 — Purpose and Findings
+Deployment of the Armed Forces, federalized National Guard, or other military force within the United States affects the constitutional boundary between civil authority, military force, state governance, and the person.
+Such deployments must be fact-based, proportionate, time-limited, record-preserving, and subject to meaningful judicial and congressional review.
+Congress finds that domestic military deployment may be lawful only when grounded in a valid statutory predicate, limited to the conditions that justify it, and constrained so that protected civic activity is not converted into an emergency identity.
+This Act establishes predicate, review, retention, sunset, oversight, and accountability requirements for domestic deployment of military force within the United States.
+Section 2 — Definitions
+For purposes of this Act:
+(a) Domestic Deployment
+“Domestic Deployment” means the deployment, federalization, use, or authorization of the Armed Forces, federalized National Guard, or other military force within the United States for public-order, law-enforcement-support, protective, emergency, civil-disturbance, or related domestic purposes.
+(b) Verified Threat Predicate
+“Verified Threat Predicate” or “VTP” means a written factual filing identifying:
+1. the statutory authority invoked;
+2. the specific statutory predicate relied upon;
+3. the facts and evidence supporting that predicate;
+4. the geographic scope of the deployment;
+5. the expected duration of the deployment;
+6. the units, personnel, or forces involved;
+7. the mission limits;
+8. the relationship between the asserted predicate and the proposed deployment;
+9. the safeguards for protected civic activity, civilian rights, record preservation, and demobilization; and
+10. the less restrictive civil-enforcement measures considered or attempted, where applicable.
+(c) Protected Civic Activity
+“Protected Civic Activity” includes lawful protest, petition, assembly, reporting, observation, recording, religious exercise, political expression, and other constitutionally protected public participation.
+(d) CACR
+“CACR” means Complete, Accurate, Continuous, and Retrievable.
+(e) Reviewing Court
+“Reviewing Court” means the United States District Court for the District of Columbia or the federal district court for the district in which the deployment occurs.
+Section 3 — Verified Threat Predicate Requirement
+(a) Requirement
+Before initiating a Domestic Deployment under 10 U.S.C. § 12406 or any related domestic military-deployment authority, the Executive shall prepare and file a Verified Threat Predicate containing specific facts and evidence supporting the statutory predicate invoked.
+(b) Predicate Categories Under 10 U.S.C. § 12406
+Where the asserted authority is 10 U.S.C. § 12406, the VTP shall identify which statutory predicate is invoked:
+1. invasion or danger of invasion by a foreign nation;
+2. rebellion or danger of rebellion against the authority of the Government of the United States; or
+3. inability with the regular forces to execute the laws of the United States.
+(c) Predicate-Specific Showing
+The VTP shall explain how the facts satisfy the invoked predicate.
+Where the Executive invokes inability with the regular forces to execute the laws of the United States, the VTP shall identify:
+1. the federal law or laws allegedly unable to be executed;
+2. the regular forces or ordinary federal resources considered or used;
+3. why those forces or resources are insufficient;
+4. why military deployment is necessary;
+5. why the proposed deployment is proportionate to the asserted inability; and
+6. why the deployment is limited to execution of the identified laws.
+(d) Filing
+The VTP shall be submitted simultaneously to:
+1. the Governor of each affected State;
+2. the Speaker of the House of Representatives;
+3. the Majority Leader of the Senate;
+4. the Minority Leader of the House of Representatives;
+5. the Minority Leader of the Senate;
+6. the Department of Defense Inspector General;
+7. the Attorney General;
+8. the Reviewing Court; and
+9. the relevant committees of Congress.
+(e) Public Version
+A public version of the VTP shall be published within twenty-four hours of filing, with lawful redactions for classified information, protected law-enforcement information, operational security, privacy, and other information protected by law.
+(f) Prohibition on Invocation Without Predicate
+A Domestic Deployment lacking a VTP shall be unlawful unless a separately enacted statute expressly authorizes immediate emergency action and provides for prompt post-deployment predicate filing and judicial review.
+Section 4 — Prohibition on Pretextual or Political Deployments
+A Domestic Deployment shall be unlawful if:
+1. it lacks a statutory predicate supported by specific facts;
+2. it is undertaken to suppress lawful protest, petition, assembly, reporting, observation, recording, religious exercise, or political expression;
+3. it is initiated, continued, or renewed for reasons materially unrelated to the evidence contained in the VTP;
+4. it uses military presence or force as a substitute for ordinary civil law enforcement where the statutory predicate has not been met;
+5. it converts Protected Civic Activity into an emergency predicate without evidence satisfying the invoked statute;
+6. it is designed to intimidate persons from engaging in lawful public participation; or
+7. it exceeds the geographic, temporal, or mission limits justified by the VTP.
+Section 5 — Mandatory Judicial Review
+(a) Jurisdiction
+The Reviewing Court shall have jurisdiction to review any VTP within seventy-two hours of filing.
+(b) Petitioners
+Review may be sought by:
+1. an affected State;
+2. an affected local government;
+3. a person subject to the deployment;
+4. a person reasonably chilled, burdened, detained, searched, injured, or otherwise affected by the deployment;
+5. a member of Congress acting within lawful authority;
+6. an organization whose members are affected; or
+7. any other party with standing.
+(c) Standard of Review
+The Court shall enjoin, narrow, condition, or terminate the deployment if the VTP is:
+1. facially insufficient;
+2. unsupported by the invoked statute;
+3. unsupported by specific facts;
+4. inconsistent with the record presented;
+5. not narrowly tailored to the statutory predicate;
+6. disproportionate to the asserted threat;
+7. directed at Protected Civic Activity without statutory justification; or
+8. insufficient to preserve civil authority, state governance, and the constitutional boundary of the person.
+(d) No Exhaustion
+Review under this section shall not require exhaustion of administrative remedies.
+(e) Continuing Jurisdiction
+The Reviewing Court shall retain jurisdiction to review:
+1. renewal filings;
+2. changed conditions;
+3. compliance with sunset requirements;
+4. alleged evasion of this Act;
+5. record-preservation violations;
+6. mission expansion;
+7. geographic expansion;
+8. continued deployment after expiration of authority; and
+9. requests for demobilization, narrowing, or other equitable relief.
+(f) Record Before the Court
+The Executive shall provide the Reviewing Court with the VTP, any renewal VTP, legal memoranda supporting the deployment, mission orders, operational limits, record-preservation plans, and any non-privileged materials necessary to determine whether the statutory predicate has been satisfied.
+Classified or protected materials may be submitted under appropriate procedures, but the Executive shall provide a public explanation sufficient to permit meaningful adversarial review to the greatest extent consistent with law.
+Section 6 — Civil Authority and Posse Comitatus Preservation
+Nothing in this Act shall be construed to authorize military execution of domestic law except where expressly authorized by the Constitution or an Act of Congress.
+Domestic Deployment authority shall be interpreted narrowly to preserve:
+1. civil authority;
+2. state governance;
+3. ordinary law-enforcement responsibility;
+4. federalism;
+5. separation of powers;
+6. protected civic participation; and
+7. the constitutional boundary of the person.
+No Domestic Deployment may be used to perform ordinary civilian law-enforcement functions unless such use is expressly authorized by the Constitution or Act of Congress and satisfies the requirements of this Act.
+Section 7 — Record Retention and Oversight
+(a) CACR Standard
+All records created, received, reviewed, transmitted, or relied upon during a Domestic Deployment shall be maintained under a Complete, Accurate, Continuous, and Retrievable record standard.
+(b) Covered Records
+Covered records include:
+1. VTP filings;
+2. renewal VTP filings;
+3. legal memoranda;
+4. operational orders;
+5. deployment authorizations;
+6. communications with State, local, territorial, or tribal officials;
+7. communications with civilian law-enforcement agencies;
+8. use-of-force records;
+9. incident reports;
+10. detention records;
+11. rules of engagement;
+12. mission limits;
+13. intelligence or threat assessments relied upon for deployment;
+14. public communications;
+15. after-action reports;
+16. demobilization records;
+17. records of any interaction with civilian law enforcement; and
+18. records necessary to determine compliance with this Act.
+(c) Automated Retention
+System-level, automated, tamper-evident retention shall be required where technically available.
+Manual reconstruction, screenshots, after-the-fact summaries, or selective exports shall not satisfy the record-retention duty when native records are available.
+(d) Preservation Duty
+No covered record may be destroyed, altered, concealed, selectively retained, or removed from official systems except pursuant to lawful record-retention rules.
+(e) Oversight Access
+An independent inspectorate, inspector general, or other designated oversight body shall have auditing authority over deployment-related records.
+Section 8 — Automatic Termination and Renewal
+(a) Initial Termination
+A Domestic Deployment shall automatically terminate seventy-two hours after initiation unless:
+1. a renewal VTP is filed before expiration;
+2. the renewal VTP identifies the statutory predicate still being invoked;
+3. the renewal is supported by new or continuing evidence;
+4. the renewal explains why ordinary civil authority remains insufficient, where applicable;
+5. the renewal explains why the deployment remains proportionate and narrowly tailored; and
+6. the Reviewing Court does not enjoin, narrow, condition, or terminate the continued deployment.
+(b) Subsequent Renewal
+A renewed deployment shall terminate automatically after each additional seventy-two-hour period unless renewed under this section.
+(c) Demobilization
+Failure to satisfy the requirements of this section voids the deployment authority and requires immediate demobilization, subject only to safe wind-down procedures ordered by the Reviewing Court.
+(d) No Automatic Expansion
+Renewal of a deployment shall not authorize geographic expansion, mission expansion, additional categories of force, or new operational objectives unless such expansion is separately justified in the renewal VTP and approved by the Reviewing Court.
+Section 9 — Independent Inspectorate Review and Alerts
+The designated independent oversight body shall:
+1. audit VTP filings, renewal filings, deployment records, and compliance with the CACR standard;
+2. review whether the asserted predicate was supported by specific facts;
+3. review whether the deployment remained within geographic, temporal, and mission limits;
+4. issue prompt compliance alerts to Congress, the Department of Justice, relevant inspectors general, affected Governors, and the Reviewing Court upon evidence of material non-compliance;
+5. preserve deployment records for judicial, congressional, and public review where lawful;
+6. publish annual public reports on Domestic Deployments, invoked predicates, renewal patterns, judicial review outcomes, demobilization compliance, and record-retention compliance; and
+7. redact public reports only as necessary for privacy, safety, classified information, protected law-enforcement interests, or other information protected by law.
+Section 10 — Enforcement and Accountability
+(a) Covered Violations
+Intentional violation of this Act includes:
+1. initiating a Domestic Deployment without a valid VTP;
+2. knowingly filing a false, materially misleading, or pretextual VTP;
+3. continuing or renewing a deployment after statutory authority has expired;
+4. expanding a deployment beyond the approved geographic, temporal, or mission limits;
+5. using deployment authority to suppress lawful protest, petition, assembly, reporting, observation, recording, religious exercise, or political expression;
+6. knowingly destroying, concealing, falsifying, or evading records required under this Act;
+7. failing to demobilize after authority expires; or
+8. materially obstructing judicial, congressional, inspector-general, or independent oversight review.
+(b) Consequences
+A covered violation may constitute:
+1. a civil violation enforceable as provided by enacted law;
+2. grounds for removal, discipline, or disqualification from deployment-related authority, consistent with due process and applicable law;
+3. a basis for injunctive, declaratory, or other equitable relief;
+4. a basis for referral to an inspector general or the Department of Justice;
+5. a violation of existing criminal record-preservation statutes where applicable; and
+6. evidence relevant to congressional oversight, appropriations restrictions, or other lawful legislative response.
+(c) Existing Law Preserved
+Nothing in this section limits criminal prosecution, inspector-general authority, congressional oversight, judicial review, State authority, local authority, civil remedies, or any other remedy available under existing law.
+Section 11 — Mandatory Congressional Review
+Upon any Domestic Deployment lasting longer than seventy-two hours, any renewal under Section 8, or any judicial injunction, narrowing order, termination order, or compliance order under Section 5, the relevant committees of Congress shall convene oversight proceedings within fourteen days to review:
+1. the deployment’s legality;
+2. the factual predicate;
+3. proportionality;
+4. geographic and temporal limits;
+5. mission limits;
+6. record preservation;
+7. impact on Protected Civic Activity;
+8. compliance with civil-authority limits;
+9. demobilization planning;
+10. renewal patterns; and
+11. adherence to this Act.
+Congress may require testimony, documents, public reporting, classified briefing, inspector-general review, or other oversight mechanisms consistent with law.
+Section 12 — Public Reporting
+Within thirty days after the termination of any Domestic Deployment, the Executive shall publish a public deployment report containing:
+1. the statutory authority invoked;
+2. the predicate asserted;
+3. the geographic scope of deployment;
+4. the duration of deployment;
+5. the units or forces involved;
+6. the mission limits;
+7. the number of renewal filings;
+8. the status of judicial review;
+9. any reported use-of-force incidents;
+10. any detention or seizure activity;
+11. any interaction with civilian law enforcement;
+12. the demobilization timeline;
+13. the record-retention certification; and
+14. any compliance concerns identified by the oversight body.
+The public report may include lawful redactions for classified information, privacy, safety, protected law-enforcement information, and other information protected by law, but redactions shall be accompanied by a general explanation sufficient for public accountability.
+Section 13 — Rule of Construction
+Nothing in this Act shall be construed to:
+1. expand domestic military authority;
+2. authorize military force where existing law does not authorize it;
+3. reduce constitutional protections;
+4. limit State authority except where valid federal law expressly provides;
+5. displace judicial review;
+6. limit congressional oversight;
+7. authorize suppression of Protected Civic Activity;
+8. alter the requirements of the Posse Comitatus Act or other statutes limiting domestic military use;
+9. prevent lawful emergency action expressly authorized by statute and subject to prompt review; or
+10. impair any right or remedy otherwise available under federal or State law.
+Section 14 — Severability
+If any provision of this Act, or the application of any provision to any person or circumstance, is held invalid, the remainder of the Act and the application of its provisions to other persons or circumstances shall not be affected.
+Section 15 — Effective Date
+This Act shall take effect upon enactment and shall apply to any Domestic Deployment initiated, continued, renewed, expanded, or materially modified after the effective date.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Declaration of Generative AI and AI-Assisted Technologies
+
+
+During the preparation and revision of this model legislation, the author used generative AI tools to assist with drafting support, language refinement, structural editing, legal-form review, and clarity. All substantive arguments, legislative design choices, theoretical claims, scope decisions, and final editorial judgments are the author’s own. The author reviewed and approved the final model legislation and takes full responsibility for its content.
